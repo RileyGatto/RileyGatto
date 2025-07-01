@@ -30,6 +30,7 @@
     />
   </a>
 </p>
+
 ##  About Me
 - Bachelor of Computer Science 2nd year
 - Expereince in data analyst / developer and IT support

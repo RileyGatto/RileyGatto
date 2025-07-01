@@ -1,6 +1,35 @@
 ![Header](./github-header-image.png)
-<p><a href="https://www.x.com/RileyGatto"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/riley-gatto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><a href="https://www.youtube.com/@RileyGatto"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@rmgatto64"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
 
+<p>
+  <a href="https://www.x.com/RileyGatto">
+    <img
+      src="https://img.shields.io/badge/X-%23ff6e96?style=for-the-badge&logo=x&logoColor=white&labelColor=%23282A36"
+      height="25"
+      alt="X (formerly Twitter)"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/riley-gatto">
+    <img
+        src="https://img.shields.io/badge/LinkedIn-%23ff6e96?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23282A36"
+        height="25"
+        alt="LinkedIn"
+    />
+  </a>
+  <a href="https://www.youtube.com/@RileyGatto">
+    <img
+      src="https://img.shields.io/badge/YouTube-%23ff6e96?style=for-the-badge&logo=youtube&logoColor=white&labelColor=%23282A36"
+      height="25"
+      alt="YouTube"
+    />
+  </a>
+  <a href="https://medium.com/@rmgatto64">
+    <img
+      src="https://img.shields.io/badge/Medium-%23ff6e96?style=for-the-badge&logo=medium&logoColor=white&labelColor=%23282A36"
+      height="25"
+      alt="Medium"
+    />
+  </a>
+</p>
 ##  About Me
 - Bachelor of Computer Science 2nd year
 - Expereince in data analyst / developer and IT support
